@@ -4,7 +4,7 @@ namespace StopAndGo
 {    
     public class StopAndGoGenerator
     {
-        #region Fields
+        #region Properties
 
         private ShiftRegister Sr1 { get; set; } // ГПСП1
         private ShiftRegister Sr2 { get; set; } // ГПСП2
